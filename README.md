@@ -9,5 +9,5 @@ DJI M3E MRK 整合工具
   2. 為每筆紀錄重新命名點位
   3. 合併寫入 combined.csv，並完成欄位解析
      
-Input: 子目錄中所有MRK檔案 
+Input: 子目錄中所有MRK檔案
 Output: combined.csv
